@@ -1,5 +1,7 @@
 img {
   display: none;
+  height: 200px;
+  border: 7px solid green;
 }
 
 .initially-showing {
