@@ -18,6 +18,17 @@ img {
   display: none;
 }
 
+.johnny5-showing {
+  display: none;
+}
+
+.data-showing {
+  display: none;
+}
+
+.chappie-showing {
+  display: none;
+}
 
 .clickable {
   cursor: pointer;
@@ -26,4 +37,24 @@ img {
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+.btn-primary {
+  background-color: black;
+}
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+
+.thanks {
+  text-align: center;
+  padding: 5px;
+  margin: 40px;
+}
+
+.colored-box {
+  background-color: #f442e5;
+  border: 5px solid #ac33c4;
 }
